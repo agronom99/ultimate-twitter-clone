@@ -38,7 +38,7 @@ const NAVIGATION_ITEMS = [
 
 const LeftSidebar = () => {
   return (
-    <section className=" fixed w-[275px] flex flex-col items-screen h-screen px-6 ">
+    <section className=" sticky top-0 w-[30%] flex flex-col items-screen h-screen px-6 ">
     {/* <Link className=" py-2 px-6 text-2xl  hover:bg-white/70" href={"/"}>
       <BsTwitter />
     </Link> */}
