@@ -26,7 +26,7 @@ const Home = () => {
             </div>
           </div>
           <div className=" flex flex-col rounded-t-xl bg-neutral-900  mt-4">
-            <h3 className=" font-bold text-xl my-2 p-2">What's happening</h3>
+            <h3 className=" font-bold text-xl my-2 p-2">What`s happening</h3>
           </div>
           <div>
             {Array.from({ length: 5 }).map((_, i) => (
